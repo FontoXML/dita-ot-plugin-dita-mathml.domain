@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="org.oasis-open.dita.v1_3_stage3.mathml.domain">
+	<feature extension="dita.specialization.catalog.relative" file="catalog.xml"/>
+	<require plugin="org.oasis-open.dita.v1_2" />
+	<require plugin="org.w3c.mathml3" />
+</plugin>

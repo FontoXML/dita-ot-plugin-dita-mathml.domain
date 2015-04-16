@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+
+	<system systemId="mathmlDomainMod.xsd" uri="mathmlDomainMod.xsd"/>
+	<system systemId="urn:oasis:names:tc:dita:xsd:mathmlDomainMod.xsd:1.3" uri="mathmlDomainMod.xsd"/>
+	<uri name="mathmlDomainMod.xsd" uri="mathmlDomainMod.xsd"/>
+	<uri name="urn:oasis:names:tc:dita:xsd:mathmlDomainMod.xsd:1.3" uri="mathmlDomainMod.xsd"/>
+
+</catalog>
